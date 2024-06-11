@@ -12,3 +12,4 @@ C:\Users\rohin\source\repos\Snake_Ladder\Snake_Ladder\obj\Debug\net8.0\refint\Sn
 C:\Users\rohin\source\repos\Snake_Ladder\Snake_Ladder\obj\Debug\net8.0\Snake_Ladder.pdb
 C:\Users\rohin\source\repos\Snake_Ladder\Snake_Ladder\obj\Debug\net8.0\Snake_Ladder.genruntimeconfig.cache
 C:\Users\rohin\source\repos\Snake_Ladder\Snake_Ladder\obj\Debug\net8.0\ref\Snake_Ladder.dll
+C:\Users\rohin\source\repos\Snake_Ladder\Snake_Ladder\obj\Debug\net8.0\Snake_Ladder.sourcelink.json
